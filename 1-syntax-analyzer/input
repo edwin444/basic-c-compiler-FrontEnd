@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int xyz () {
+	if ((a <= a >= b) + ((a) - (!b))) {
+
+	}
+	else {
+
+	}
+
+	while (i < 10) {
+
+	}
+
+	i = 0;
+
+	c = 1.12;
+
+
+	for (i = 0; i < 10;i= i + 1) {
+
+	}
+
+	int a;
+	int a,b ,c;
+
+	c = a + b;
+
+	c = a+b*(a/c);
+
+	a = a != b;
+
+	a = (a <= a >= b) + ((a) - (!b));
+
+	//45 = (a*b);
+	int aksahsa[10][20], abn;
+
+
+}
+
